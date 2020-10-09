@@ -50,7 +50,7 @@ namespace UTXamarin.Pages
                 Navigation.PushAsync(new InstructorProfilePage(selectedInstructor.Id));
             }
 
-            ((ListView)sender).SelectedItem = null;
+            ((ListView) sender).SelectedItem = null;
         }
 
 

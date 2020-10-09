@@ -39,6 +39,6 @@
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
-        </ListView>>
+        </ListView>
     </ContentPage.Content>
 </ContentPage>

@@ -46,35 +46,20 @@
                 </Picker>
                 <Picker x:Name="PickerCourseDomain" Title="Course Domain">
                     <Picker.Items>
-                        <x:String>Accounting</x:String>
-                        <x:String>Arts</x:String>
-                        <x:String>Biological Science</x:String>
-                        <x:String>Chemistry</x:String>
-                        <x:String>Computer Science</x:String>
-                        <x:String>Dentistry</x:String>
-                        <x:String>Forensic Science</x:String>
-                        <x:String>Medicine</x:String>
-                        <x:String>Philosophy</x:String>
-                        <x:String>Physics</x:String>
-                        <x:String>Sociology</x:String>
+                        <x:String>WRAV101</x:String>
+                        <x:String>WRAV102</x:String>
+                        <x:String>WRDB301</x:String>
+                        <x:String>WRUI301</x:String>
+                        <x:String>MATH202</x:String>
                     </Picker.Items>
                 </Picker>
-                <Picker x:Name="PickerCity" Title="City">
+                <Picker x:Name="PickerCity" Title="Campus">
                     <Picker.Items>
-                        <x:String>Alabama</x:String>
-                        <x:String>Alaska</x:String>
-                        <x:String>California</x:String>
-                        <x:String>Florida</x:String>
-                        <x:String>Georgia</x:String>
-                        <x:String>Indiana</x:String>
-                        <x:String>Louisiana</x:String>
-                        <x:String>Mississippi</x:String>
-                        <x:String>New Mexico</x:String>
-                        <x:String>New York</x:String>
-                        <x:String>Pennsylvania</x:String>
-                        <x:String>Seattle</x:String>
-                        <x:String>Texas</x:String>
-                        <x:String>Washington</x:String>
+                        <x:String>South</x:String>
+                        <x:String>North</x:String>
+                        <x:String>Second Avenue</x:String>
+                        <x:String>Bird Street</x:String>
+                        <x:String>George</x:String>
                     </Picker.Items>
                 </Picker>
                 <Entry x:Name="EntOneLineTitle" Placeholder="Short Title"/>
